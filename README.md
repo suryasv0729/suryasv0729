@@ -16,5 +16,6 @@ I'm a front-end developer passionate about creating user-friendly and visually a
 - Regex
 - Data Analysis
 - Data Mining
+- SQL
 
 Feel free to explore my repositories and don't hesitate to connect! Let's build awesome things together. 😊
